@@ -1,9 +1,624 @@
 {
+  "newsletter": [
+    {
+      "id": "1",
+      "title": "농촌진흥청, 날씨·병해충에 끄떡없는 ‘노지 스마트팜’ 시범 사업 추진",
+      "news": "조선비즈",
+      "imgURL": "https://biz.chosun.com/resizer/LAIPLBx6txn1JzWLRD7W8_r02IU=/929x609/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/WB2GPWRPYBCYVIBPRCPFOCX4ME.jpg",
+      "link": "https://biz.chosun.com/policy/policy_sub/2024/01/16/GVMQE6UWC5FVNCSYDFFDYQPQAQ/"
+    },
+    {
+      "id": "2",
+      "title": "농어촌공사, ‘K스마트팜’ 해외로 보낸다… 지원설명회 주관",
+      "news": "동아일보",
+      "imgURL": "https://dimg.donga.com/wps/NEWS/IMAGE/2024/01/16/123071452.1.jpg",
+      "link": "https://www.donga.com/news/Economy/article/all/20240116/123071468/1"
+    },
+    {
+      "id": "3",
+      "title": "구리시, 미래를 향한 농업으로의 첫걸음 ‘힐링 스마트팜’ 설치",
+      "news": "일간투데이",
+      "imgURL": "https://cdn.mjeonbuk.com/news/photo/202401/66020_70665_3036.jpg",
+      "link": "https://www.mjeonbuk.com/news/articleView.html?idxno=66020"
+    },
+    {
+      "id": "4",
+      "title": "농촌진흥청, 날씨·병해충에 끄떡없는 ‘노지 스마트팜’ 시범 사업 추진",
+      "news": "조선비즈",
+      "imgURL": "https://biz.chosun.com/resizer/LAIPLBx6txn1JzWLRD7W8_r02IU=/929x609/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/WB2GPWRPYBCYVIBPRCPFOCX4ME.jpg",
+      "link": "https://biz.chosun.com/policy/policy_sub/2024/01/16/GVMQE6UWC5FVNCSYDFFDYQPQAQ/"
+    },
+    {
+      "id": "5",
+      "title": "농어촌공사, ‘K스마트팜’ 해외로 보낸다… 지원설명회 주관",
+      "news": "동아일보",
+      "imgURL": "https://dimg.donga.com/wps/NEWS/IMAGE/2024/01/16/123071452.1.jpg",
+      "link": "https://www.donga.com/news/Economy/article/all/20240116/123071468/1"
+    },
+    {
+      "id": "6",
+      "title": "구리시, 미래를 향한 농업으로의 첫걸음 ‘힐링 스마트팜’ 설치",
+      "news": "일간투데이",
+      "imgURL": "https://cdn.mjeonbuk.com/news/photo/202401/66020_70665_3036.jpg",
+      "link": "https://www.mjeonbuk.com/news/articleView.html?idxno=66020"
+    }
+  ],
+  "usedmachinery": [
+    {
+      "id": "1",
+      "title": "09년식 피아트 110-9 트랙터 판매합니다",
+      "price": 21000000,
+      "region": "수원",
+      "yearOfManufacture": 2009,
+      "imgURL": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "title": "10년식 존디어 3203 트랙터 판매합니다",
+      "price": 19000000,
+      "region": "청주",
+      "yearOfManufacture": 2010,
+      "imgURL": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "title": "11년식 뉴홀랜드 T5.95 트랙터 판매합니다",
+      "price": 25000000,
+      "region": "전주",
+      "yearOfManufacture": 2011,
+      "imgURL": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "title": "12년식 쿠보타 M7060 트랙터 판매합니다",
+      "price": 22000000,
+      "region": "대구",
+      "yearOfManufacture": 2012,
+      "imgURL": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "title": "13년식 매시퍼거슨 5610 트랙터 판매합니다",
+      "price": 23000000,
+      "region": "광주",
+      "yearOfManufacture": 2013,
+      "imgURL": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6",
+      "title": "14년식 피아트 140-90 트랙터 판매합니다",
+      "price": 24000000,
+      "region": "부산",
+      "yearOfManufacture": 2014,
+      "imgURL": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "title": "15년식 존디어 5075E 트랙터 판매합니다",
+      "price": 26000000,
+      "region": "울산",
+      "yearOfManufacture": 2015,
+      "imgURL": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "8",
+      "title": "16년식 뉴홀랜드 T7.165 트랙터 판매합니다",
+      "price": 27000000,
+      "region": "인천",
+      "yearOfManufacture": 2016,
+      "imgURL": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "9",
+      "title": "17년식 쿠보타 L4701 트랙터 판매합니다",
+      "price": 22000000,
+      "region": "서울",
+      "yearOfManufacture": 2017,
+      "imgURL": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "10",
+      "title": "18년식 매시퍼거슨 7726 트랙터 판매합니다",
+      "price": 28000000,
+      "region": "경기",
+      "yearOfManufacture": 2018,
+      "imgURL": "https://via.placeholder.com/150"
+    }
+  ],
+  "supportPrograms": {
+    "currentPage": 1,
+    "pageSize": 10,
+    "totalPages": 5,
+    "totalItems": 50,
+    "items": [
+      {
+        "programID": 10,
+        "programName": "[경남] 2024년 농어촌진흥기금 융자계획 공고",
+        "region1": "경상남도",
+        "region2": "진주시",
+        "uploadDate": "2024-02-19",
+        "startDate": "2024-02-01",
+        "deadline": "2024-02-22",
+        "recruitmentStatus": "모집중",
+        "category": "지원사업",
+        "link": "http://example.com",
+        "content": "안녕하세요~! 닷팜 에디터 도농탁입니다 1월 4주차 농업관련 영상 링크로 정리해서 보내드립니다 < 하단 pdf 파일로 뉴스를 상세히 볼 수 있습니다>",
+        "createdAt": "2024-01-01",
+        "updatedAt": "2024-01-02"
+      },
+      {
+        "programID": 11,
+        "programName": "[경남] 2024년 일본 동경 국제식품박람회(농식품) 참가업체 모집 공고",
+        "region1": "경상남도",
+        "region2": "진주시",
+        "uploadDate": "2024-02-19",
+        "startDate": "2024-02-01",
+        "deadline": "2024-02-19",
+        "recruitmentStatus": "모집중",
+        "category": "지원사업",
+        "link": "http://example.com",
+        "content": "지원사업에 대한 상세 내용: 2024년 일본 동경 국제식품박람회(농식품) 참가업체 모집",
+        "createdAt": "2024-01-01",
+        "updatedAt": "2024-01-02"
+      },
+      {
+        "programID": 12,
+        "programName": "[경남] 진주시 2024년 농산물우수관리(GAP) 인증수수료 지원 신청 공고",
+        "region1": "경상남도",
+        "region2": "진주시",
+        "uploadDate": "2024-02-19",
+        "startDate": "2024-02-01",
+        "deadline": "2024-02-20",
+        "recruitmentStatus": "모집중",
+        "category": "지원사업",
+        "link": "http://example.com",
+        "content": "지원사업에 대한 상세 내용...",
+        "createdAt": "2024-01-01",
+        "updatedAt": "2024-01-02"
+      }
+    ]
+  },
+  "profiles": [
+    {
+      "id": "1",
+      "profileImageURL": "https://publy.imgix.net/user-uploaded/593187/2024.01/0b8c3885a4c8d51e385b1b009a84ae9e35c57b51132065358df664ac569cfc1b.jpeg?w=400&h=400&auto=format&fm=jpeg",
+      "userName": "도농탁",
+      "status": "활성",
+      "role": "일반",
+      "region": "대전광역시",
+      "subRegion": "서구",
+      "farmingExperience": "1년",
+      "majorCrops": "토마토",
+      "createdAt": "2023-05-01 21:47:05",
+      "updatedAt": "2024-02-23 15:29:11"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "kakaoId": 101,
+      "userName": "도농탁",
+      "region": "경기도",
+      "subRegion": "고양시",
+      "profileImageURL": "https://ca.slack-edge.com/T01JYGENJG1-U05ASPQHVKK-dd601309d045-512",
+      "role": "일반",
+      "status": "활성",
+      "accessToken": "someAccessToken1",
+      "refreshToken": "someRefreshToken1",
+      "createdAt": "2023-05-01 21:47:05",
+      "updatedAt": "2024-02-23 15:29:11",
+      "farmingExperience": "1년",
+      "majorCrops": "토마토"
+    },
+    {
+      "id": 2,
+      "kakaoId": 101,
+      "userName": "오승연",
+      "region": "경기도",
+      "subRegion": "여주시",
+      "profileImageURL": "https://publy.imgix.net/user-uploaded/593187/2024.01/0b8c3885a4c8d51e385b1b009a84ae9e35c57b51132065358df664ac569cfc1b.jpeg?w=400&h=400&auto=format&fm=jpeg",
+      "role": "일반",
+      "status": "활성",
+      "accessToken": "someAccessToken1",
+      "refreshToken": "someRefreshToken1",
+      "createdAt": "2023-01-01T00:00:00Z",
+      "updatedAt": "2023-01-01T00:00:00Z",
+      "farmingExperience": "1년",
+      "majorCrops": "토마토"
+    },
+    {
+      "id": 3,
+      "kakaoId": 102,
+      "userName": "농사직썰",
+      "region": "충청남도",
+      "subRegion": "천안시",
+      "profileImageURL": "https://example.com/profile2.jpg",
+      "role": "일반",
+      "status": "활성",
+      "accessToken": "someAccessToken2",
+      "refreshToken": "someRefreshToken2",
+      "createdAt": "2023-02-01T00:00:00Z",
+      "updatedAt": "2023-02-01T00:00:00Z",
+      "farmingExperience": "2년",
+      "majorCrops": "사과"
+    },
+    {
+      "id": 10,
+      "kakaoId": 110,
+      "userName": "녹색지킴이",
+      "region": "경상남도",
+      "subRegion": "창원시",
+      "profileImageURL": "https://example.com/profile10.jpg",
+      "role": "일반",
+      "status": "활성",
+      "accessToken": "someAccessToken10",
+      "refreshToken": "someRefreshToken10",
+      "createdAt": "2023-10-01T00:00:00Z",
+      "updatedAt": "2023-10-01T00:00:00Z",
+      "farmingExperience": "10년",
+      "majorCrops": "고추"
+    }
+  ],
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    {
+      "id": 1,
+      "title": "09년식 피아트 110-9 트랙터 판매합니다",
+      "contents": "이 트랙터는 농장 작업뿐만 아니라 건설 및 기타 산업 작업에도 이상적입니다. 시내 및 지역간 운송에도 적합합니다.",
+      "userId": 1,
+      "imgURL": "https://example.com/image_1.jpg",
+      "category": "중고",
+      "createdAt": "2023-12-05 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "서울특별시",
+      "region2": "강남구"
+    },
+    {
+      "id": 2,
+      "title": "유럽엽체류를 키우고 있는데 건물내부에서 수경재배로 키우려고 합니다 어느정도의 견적이 들까요?",
+      "contents": "저는 현재 유럽에 거주하고 있으며, 건물 내부에서 작물을 수경재배하여 생산하려고 합니다. 이에 관련하여 견적을 문의 드리려합니다",
+      "userId": 2,
+      "imgURL": "https://example.com/image_2.jpg",
+      "category": "QNA",
+      "createdAt": "2023-07-30 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "경기도",
+      "region2": "고양시"
+    },
+    {
+      "id": 3,
+      "title": "제목4",
+      "contents": "내용5",
+      "userId": 10,
+      "imgURL": "https://example.com/image_3.jpg",
+      "category": "QNA",
+      "createdAt": "2023-06-28 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "인천광역시",
+      "region2": "남동구"
+    },
+    {
+      "id": 4,
+      "title": "제목4",
+      "contents": "내용4",
+      "userId": 1,
+      "imgURL": "https://example.com/image_4.jpg",
+      "category": "중고",
+      "createdAt": "2023-11-30 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "경기도",
+      "region2": "고양시"
+    },
+    {
+      "id": 5,
+      "title": "제목5",
+      "contents": "내용3",
+      "userId": 2,
+      "imgURL": "https://example.com/image_5.jpg",
+      "category": "중고",
+      "createdAt": "2023-06-02 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "인천광역시",
+      "region2": "남동구"
+    },
+    {
+      "id": 6,
+      "title": "제목3",
+      "contents": "내용1",
+      "userId": 10,
+      "imgURL": "https://example.com/image_6.jpg",
+      "category": "QNA",
+      "createdAt": "2023-05-31 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "서울특별시",
+      "region2": "고양시"
+    },
+    {
+      "id": 7,
+      "title": "제목1",
+      "contents": "내용3",
+      "userId": 1,
+      "imgURL": "https://example.com/image_7.jpg",
+      "category": "QNA",
+      "createdAt": "2023-12-24 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "경기도",
+      "region2": "고양시"
+    },
+    {
+      "id": 8,
+      "title": "제목5",
+      "contents": "내용1",
+      "userId": 1,
+      "imgURL": "https://example.com/image_8.jpg",
+      "category": "QNA",
+      "createdAt": "2023-09-08 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "서울특별시",
+      "region2": "고양시"
+    },
+    {
+      "id": 9,
+      "title": "제목4",
+      "contents": "내용3",
+      "userId": 2,
+      "imgURL": "https://example.com/image_9.jpg",
+      "category": "QNA",
+      "createdAt": "2023-11-01 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "인천광역시",
+      "region2": "강남구"
+    },
+    {
+      "id": 10,
+      "title": "제목3",
+      "contents": "내용4",
+      "userId": 3,
+      "imgURL": "https://example.com/image_10.jpg",
+      "category": "중고",
+      "createdAt": "2023-07-26 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "경기도",
+      "region2": "강남구"
+    },
+    {
+      "id": 11,
+      "title": "제목5",
+      "contents": "내용5",
+      "userId": 1,
+      "imgURL": "https://example.com/image_11.jpg",
+      "category": "QNA",
+      "createdAt": "2023-05-02 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "인천광역시",
+      "region2": "남동구"
+    },
+    {
+      "id": 12,
+      "title": "제목3",
+      "contents": "내용3",
+      "userId": 3,
+      "imgURL": "https://example.com/image_12.jpg",
+      "category": "QNA",
+      "createdAt": "2023-09-12 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "경기도",
+      "region2": "남동구"
+    },
+    {
+      "id": 13,
+      "title": "제목2",
+      "contents": "내용5",
+      "userId": 3,
+      "imgURL": "https://example.com/image_13.jpg",
+      "category": "중고",
+      "createdAt": "2023-10-09 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "경기도",
+      "region2": "고양시"
+    },
+    {
+      "id": 14,
+      "title": "제목3",
+      "contents": "내용4",
+      "userId": 1,
+      "imgURL": "https://example.com/image_14.jpg",
+      "category": "중고",
+      "createdAt": "2023-04-14 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "서울특별시",
+      "region2": "고양시"
+    },
+    {
+      "id": 15,
+      "title": "제목5",
+      "contents": "내용5",
+      "userId": 1,
+      "imgURL": "https://example.com/image_15.jpg",
+      "category": "중고",
+      "createdAt": "2023-06-15 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "서울특별시",
+      "region2": "강남구"
+    },
+    {
+      "id": 16,
+      "title": "제목1",
+      "contents": "내용1",
+      "userId": 1,
+      "imgURL": "https://example.com/image_16.jpg",
+      "category": "일반",
+      "createdAt": "2023-09-23 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "인천광역시",
+      "region2": "강남구"
+    },
+    {
+      "id": 17,
+      "title": "제목5",
+      "contents": "내용1",
+      "userId": 2,
+      "imgURL": "https://example.com/image_17.jpg",
+      "category": "QNA",
+      "createdAt": "2023-10-06 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "인천광역시",
+      "region2": "고양시"
+    },
+    {
+      "id": 18,
+      "title": "제목5",
+      "contents": "내용1",
+      "userId": 2,
+      "imgURL": "https://example.com/image_18.jpg",
+      "category": "중고",
+      "createdAt": "2024-01-31 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "인천광역시",
+      "region2": "남동구"
+    },
+    {
+      "id": 19,
+      "title": "제목4",
+      "contents": "내용3",
+      "userId": 1,
+      "imgURL": "https://example.com/image_19.jpg",
+      "category": "중고",
+      "createdAt": "2023-04-30 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "경기도",
+      "region2": "남동구"
+    },
+    {
+      "id": 20,
+      "title": "제목5",
+      "contents": "내용5",
+      "userId": 1,
+      "imgURL": "https://example.com/image_20.jpg",
+      "category": "QNA",
+      "createdAt": "2023-11-22 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "서울특별시",
+      "region2": "강남구"
+    },
+    {
+      "id": 21,
+      "title": "제목4",
+      "contents": "내용5",
+      "userId": 3,
+      "imgURL": "https://example.com/image_21.jpg",
+      "category": "QNA",
+      "createdAt": "2024-01-12 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "서울특별시",
+      "region2": "강남구"
+    },
+    {
+      "id": 22,
+      "title": "제목5",
+      "contents": "내용4",
+      "userId": 1,
+      "imgURL": "https://example.com/image_22.jpg",
+      "category": "중고",
+      "createdAt": "2023-11-23 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "인천광역시",
+      "region2": "남동구"
+    },
+    {
+      "id": 23,
+      "title": "제목2",
+      "contents": "내용4",
+      "userId": 10,
+      "imgURL": "https://example.com/image_23.jpg",
+      "category": "중고",
+      "createdAt": "2023-04-19 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "인천광역시",
+      "region2": "강남구"
+    },
+    {
+      "id": 24,
+      "title": "제목5",
+      "contents": "내용4",
+      "userId": 2,
+      "imgURL": "https://example.com/image_24.jpg",
+      "category": "중고",
+      "createdAt": "2023-08-13 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "경기도",
+      "region2": "고양시"
+    },
+    {
+      "id": 25,
+      "title": "제목1",
+      "contents": "내용2",
+      "userId": 10,
+      "imgURL": "https://example.com/image_25.jpg",
+      "category": "일반",
+      "createdAt": "2023-07-15 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "서울특별시",
+      "region2": "고양시"
+    },
+    {
+      "id": 26,
+      "title": "제목1",
+      "contents": "내용5",
+      "userId": 3,
+      "imgURL": "https://example.com/image_26.jpg",
+      "category": "중고",
+      "createdAt": "2023-09-10 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "인천광역시",
+      "region2": "고양시"
+    },
+    {
+      "id": 27,
+      "title": "제목3",
+      "contents": "내용4",
+      "userId": 3,
+      "imgURL": "https://example.com/image_27.jpg",
+      "category": "일반",
+      "createdAt": "2024-02-07 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "경기도",
+      "region2": "남동구"
+    },
+    {
+      "id": 28,
+      "title": "제목1",
+      "contents": "내용2",
+      "userId": 3,
+      "imgURL": "https://example.com/image_28.jpg",
+      "category": "일반",
+      "createdAt": "2024-02-05 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "인천광역시",
+      "region2": "남동구"
+    },
+    {
+      "id": 29,
+      "title": "제목5",
+      "contents": "내용4",
+      "userId": 3,
+      "imgURL": "https://example.com/image_29.jpg",
+      "category": "중고",
+      "createdAt": "2024-02-21 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "서울특별시",
+      "region2": "강남구"
+    },
+    {
+      "id": 30,
+      "title": "제목4",
+      "contents": "내용4",
+      "userId": 1,
+      "imgURL": "https://example.com/image_30.jpg",
+      "category": "일반",
+      "createdAt": "2023-11-27 05:53:13",
+      "updatedAt": "2024-02-27 05:53:13",
+      "region1": "서울특별시",
+      "region2": "남동구"
+    }
+  ]
 }
